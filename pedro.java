@@ -1,4 +1,4 @@
-esta  es la clase de pedro version 0.2:
+esta  es la clase de pedro version 0.1:
 nombres
 apellidos
 edad
